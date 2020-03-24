@@ -1,0 +1,30 @@
+
+lesson 1:
+1a. Print command
+print("hello world")
+
+fun exercise: timing the typing of 26 characters without error
+
+b. variables
+variables can be given value, even a very large number, then you can reuse the number over and over again in a formula without having to retype the numbers.
+
+For example:
+Kai typed
+D=9999999999999
+U=12325534
+
+and he typed some crazy formulas like D-U-U-U-U, or D*U-U-D
+
+c. different variable types
+String type
+W='W'
+A='SS'
+W+A
+
+D=A
+and D will get 'SS' instead of A because without quotation, A is a variable and not a String
+
+Try W-A, but it doesn't work
+
+But multiplication will work
+try A*5
